@@ -1,0 +1,18 @@
+# config.yaml
+seed: 2102
+device: cuda
+train_batch_size: 256
+learning_rate: 0.001
+num_epochs: 60
+scheduler_patience: 5
+scheduler_factor: 0.2
+train_split: 0.9
+dataset_path: 'data/prottrans_molformer_embeddings.json'
+model_train_save_path: 'data/BAPULM_weights.pth'
+model_inference_path: 'data/BAPULM_results_molformer_reproduce_json.pth'
+inference_batch_size: 64
+benchmark_files:
+  - 'data/benchmark1k2101.csv'
+  - 'data/Test2016_290.csv'
+  - 'data/CSAR-HiQ_36.csv'
+  

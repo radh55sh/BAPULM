@@ -1,0 +1,9 @@
+torch
+tqdm
+transformers==4.41.0
+datasets
+numpy==1.24.0
+scikit-learn==1.4.2
+scipy==1.13.0
+pandas==1.5.3
+pyyaml==6.0.1
