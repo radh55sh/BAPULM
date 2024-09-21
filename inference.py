@@ -33,7 +33,7 @@ def main():
     with open('config.yaml', 'r') as config_file:
         config = yaml.safe_load(config_file)
     # set seed
-    set_seed(64)
+    set_seed(2102)
 
     # Initialize device and model
     device = torch.device(config['device'] if torch.cuda.is_available() else 'cpu')
