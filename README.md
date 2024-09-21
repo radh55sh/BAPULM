@@ -21,7 +21,8 @@ Welcome to the BAPULM repository! This repository corresponds to the prediction 
     Download the prottrans_molformer dataset from the [Hugging Face Platform](https://huggingface.co/datasets/radh25sh/BAPULM/tree/main) and place it in the data/ directory.
    
 5. **To train the model and inference:**
-   First, train the model and furthermore to do inference on the model change the config file model_inference_path parameter with the save model weights
+   First, train the model, and furthermore, to do inference on the model [Hugging Face Platform](https://huggingface.co/datasets/radh25sh/BAPULM/tree/main) download the model parameters and place it in the data/ directory.
+   
      ```bash
      python main.py # To train the model
      python inference.py # To perform inference 
