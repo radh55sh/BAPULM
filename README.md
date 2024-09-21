@@ -18,7 +18,7 @@ Welcome to the BAPULM repository! This repository corresponds to the prediction 
      pip install -r requirements.txt
   
 4. **Download the datset:**
-    Download the prottrans_molformer dataset from the [Google Drive link](https://drive.google.com/drive/folders/1i0KSzvdWZDxd4417_DYIEAIq2i8Gik-Q) and place it in the data/ directory.
+    Download the prottrans_molformer dataset either from the [Google Drive](https://drive.google.com/drive/folders/1i0KSzvdWZDxd4417_DYIEAIq2i8Gik-Q) or [Huggin Face](https://huggingface.co/datasets/radh25sh/BAPULM/tree/main)and place it in the data/ directory.
    
 5. **To train the model and inference:**
    First, train the model and furthermore to do inference on the model change the config file model_inference_path parameter with the save model weights
