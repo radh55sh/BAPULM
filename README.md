@@ -35,4 +35,20 @@ Welcome to the BAPULM repository! This repository corresponds to the prediction 
      ```bash
      python main.py # To train the model
      python inference.py # To perform inference 
-   
+
+## Citation
+
+If you use **BAPULM** in your research or project, please cite:
+
+```bibtex
+@misc{meda2024bapulmbindingaffinityprediction,
+      title={BAPULM: Binding Affinity Prediction using Language Models}, 
+      author={Radheesh Sharma Meda and Amir Barati Farimani},
+      year={2024},
+      eprint={2411.04150},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.QM},
+      url={https://arxiv.org/abs/2411.04150},
+}
+```
+---
