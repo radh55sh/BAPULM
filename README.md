@@ -5,9 +5,6 @@
 
 # BAPULM: Binding Affinity Prediction Using Language Models
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bapulm-binding-affinity-prediction-using/protein-ligand-affinity-prediction-on-csar)](https://paperswithcode.com/sota/protein-ligand-affinity-prediction-on-csar?p=bapulm-binding-affinity-prediction-using)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bapulm-binding-affinity-prediction-using/protein-ligand-affinity-prediction-on-pdbbind)](https://paperswithcode.com/sota/protein-ligand-affinity-prediction-on-pdbbind?p=bapulm-binding-affinity-prediction-using)
-
 
 Welcome to the BAPULM repository! This repository corresponds to the prediction of protein-ligand complex binding affinity.
 
